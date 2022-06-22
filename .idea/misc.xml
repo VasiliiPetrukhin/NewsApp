@@ -3,14 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/vasil/AndroidStudioProjects/newsApp/app/src/main/res/drawable/bg_image_10.xml" value="0.1" />
         <entry key="..\:/Users/vasil/AndroidStudioProjects/newsApp/app/src/main/res/drawable/ic_favorite.xml" value="0.1105" />
         <entry key="..\:/Users/vasil/AndroidStudioProjects/newsApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/vasil/AndroidStudioProjects/newsApp/app/src/main/res/layout/fragment_detail.xml" value="0.1" />
         <entry key="..\:/Users/vasil/AndroidStudioProjects/newsApp/app/src/main/res/layout/fragment_favorite.xml" value="0.1" />
-        <entry key="..\:/Users/vasil/AndroidStudioProjects/newsApp/app/src/main/res/layout/fragment_main.xml" value="0.1" />
-        <entry key="..\:/Users/vasil/AndroidStudioProjects/newsApp/app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="..\:/Users/vasil/AndroidStudioProjects/newsApp/app/src/main/res/layout/fragment_main.xml" value="0.22" />
+        <entry key="..\:/Users/vasil/AndroidStudioProjects/newsApp/app/src/main/res/layout/fragment_search.xml" value="0.22" />
         <entry key="..\:/Users/vasil/AndroidStudioProjects/newsApp/app/src/main/res/layout/fragment_splash.xml" value="0.1921875" />
+        <entry key="..\:/Users/vasil/AndroidStudioProjects/newsApp/app/src/main/res/layout/item_article.xml" value="0.1921875" />
         <entry key="..\:/Users/vasil/AndroidStudioProjects/newsApp/app/src/main/res/menu/botton_nav_menu.xml" value="0.1921875" />
+        <entry key="..\:/Users/vasil/AndroidStudioProjects/newsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1105" />
       </map>
     </option>
   </component>
